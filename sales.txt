@@ -1,2 +1,2 @@
-
-Header line for sales
+1. Header line for sales
+-  First sale recorded
