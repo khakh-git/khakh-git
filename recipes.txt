@@ -3,3 +3,6 @@ this line was added from local file
 
 Recipe#1
 Make a traditional banana milk shake but add roasted Almonds in the blender, and add cashew on top of the glass before serving .
+
+Recipe#2
+Iced White Choc Mocha (added to new_branch)
