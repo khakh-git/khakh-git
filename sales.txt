@@ -4,3 +4,9 @@
 
 2. Quick fix
 -  Both of the above sales were examples, we are writing this line in a branch 'quickfix'
+
+3. Diff Branch 
+-  This change was done in diffbranch
+
+4. Rebase
+-  Changes for rebase
